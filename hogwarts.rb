@@ -1,5 +1,5 @@
 def "Spell"
-  Leviation=6
+  Leviation = 6
   while Leviation < 10 
   puts "Wingardium Leviosa"
   Leviation += 1 
