@@ -5,4 +5,4 @@ def "Spell"
   Leviation += 1 
 end 
 end 
-Spell
+"Spell"
