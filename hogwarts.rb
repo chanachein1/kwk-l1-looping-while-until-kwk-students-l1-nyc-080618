@@ -1,4 +1,4 @@
-def Spell
+def spell
   Leviation = 6
   while Leviation < 10 
   puts "Wingardium Leviosa"
